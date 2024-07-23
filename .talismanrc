@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1.1__CreateSongsTable.sql
+  checksum: cd9e4fa40e1f1fa83c61d8d92f944744ca6fed9ba6dee865d02f0ea68caebcdf
+- filename: src/main/resources/db/migration/V1.2__InsertSomeSongs.sql
+  checksum: 0a32b2db5154ebc50a84816c4fd9aa1e5d3d8c2f9182952346e9ac721b49b78b
+- filename: src/main/resources/db/migration/V1.3__CreatePlaylistTable.sql
+  checksum: 2226820e12f9835c9d236ab05695b125cc110be916b42934f9a30d6996052267
+- filename: src/main/resources/db/migration/V1.4__CreatePlaylistSongTable.sql
+  checksum: f59feaad5008d3da7d723db40f55e7146c507eff9fa7d3f9b07523912ff448b5
+- filename: src/main/resources/application.properties
+  checksum: 6aa161388e5f8b8e37c9dbc738134f793c8adbc7bccac250b445b980bca622b8
+- filename: build.gradle
+  checksum: 8dd546db3220f78a269911ffd36139725020d02d2fec53ad8ee731608d820375
+version: ""
